@@ -1,5 +1,5 @@
 # Pics-Search
-A photo searcher built using the [unsplash API](https://unsplash.com/developers)
+A photo searcher built using the [unsplash API](https://unsplash.com/developers) that I learned at the Modern React with Redux course from Stephen Grider.
 
 ## Table of contents
 * [General info](#general-info)
